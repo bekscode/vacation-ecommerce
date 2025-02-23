@@ -1,4 +1,4 @@
-# Backend Programming Vacation Ecommerce Application
+# Vacation Ecommerce Application
 ### Introduction
 This application was built as a final project for the Western Governor's University Back-end Programming course. For this task, I created the entire back-end using Spring, while an Angular frontend was provided.
 
